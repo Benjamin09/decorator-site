@@ -7,3 +7,15 @@ img {
     width: 480px;
     float: left;
 }
+
+#before {
+    background-color: lightblue;
+}
+
+#during {
+    background-color: lightpink;
+}
+
+#after {
+    background-color: lightgreen;
+}
